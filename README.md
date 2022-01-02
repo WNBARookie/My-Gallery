@@ -8,10 +8,10 @@
 
 <div align="center">
   <h3>
-    <!-- <a href="https://{your-demo-link.your-domain}">
+    <a href="https://my-gallery-dev-challenges.netlify.app/">
       Demo
     </a>
-    <span> | </span> -->
+    <span> | </span>
     <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
       Challenge
     </a>
